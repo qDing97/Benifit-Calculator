@@ -1,6 +1,8 @@
 # Benifit-Calculator
 A simple C# program to calculate the benifits from a company
 
+![3 part 2](https://user-images.githubusercontent.com/19416425/57050419-52cee980-6c31-11e9-8139-e5f08bc131a2.PNG)
+
 RULES :
 
 1. Medical plan: Insurance Company charges monthly premiums based on the following rules:
